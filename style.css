@@ -174,7 +174,6 @@ body {
         margin: 16px 0;
     }
 
-    /*main*/
     .home {
         padding: 100px 2%;
         flex-direction: column;
@@ -200,17 +199,6 @@ body {
         width: 125%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
